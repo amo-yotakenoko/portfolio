@@ -1,0 +1,26 @@
+.heading {
+
+
+   
+    background-color: #728356;
+    border-radius: 5px;
+    color:     #FDF251;
+    padding: 5px 0px 5px 10px;
+    font-weight:bolder; 
+    font-size: 60px
+
+
+  }
+
+  .text {
+
+
+    background-color:    #FDF251;
+    border-radius: 5px;
+    color:       #728356;
+    padding: 5px 0px 5px 10px;
+    font-weight:bolder; 
+    font-size: 20px
+
+
+  }
