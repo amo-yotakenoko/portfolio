@@ -27,5 +27,5 @@ layout: home
 sudo lsof -i :4000
 sudo kill -QUIT 2635
 cd /Users/takedafumino/Documents/portfolio
-sudo bundle exec jekyll serve
+sudo bundle exec jekyll serve --baseurl ''
  -->
