@@ -9,7 +9,7 @@ layout: home
 <link rel="stylesheet" type="text/css" href="my_css.css">
 <p class ="heading"><img class="takenoko_upper_body" src="images/takenoko.png" height="100">takenokoです　<p>
 <p src="images/takenoko.png" height="100">
-<p class ="test2">ScratchとUnityができます ああああああああああ</p>
+<p class ="test2">ScratchとUnityができます </p>
 <a href="amo-yo.html"><img src="images/thumbnail/amo-yo.png">
 <a href="pomo-yo.html"><img src="images/thumbnail/pomo-yo.png">
 
