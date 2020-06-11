@@ -29,7 +29,7 @@ twitter_username: takenok58914745
 github_username: amo-yotakenoko
 
 # Build settings
-theme: minima
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
