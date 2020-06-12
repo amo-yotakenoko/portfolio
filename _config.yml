@@ -23,8 +23,8 @@ email: amouyo.takenoko@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   takenokoです。
   Unityで手芸支援アプリ作ったりしてます
-baseurl: "https://amo-yotakenoko.github.io/portfolio/" # the subpath of your site, e.g. /blog
-url: "https://amo-yotakenoko.github.io/portfolio/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "https://amo-yotakenoko.github.io" # the subpath of your site, e.g. /blog
+url: "https://amo-yotakenoko.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: takenok58914745
 github_username: amo-yotakenoko
 
