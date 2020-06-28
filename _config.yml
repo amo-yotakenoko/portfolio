@@ -53,3 +53,10 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 paginate: 5
+
+defaults:
+  -
+    scope:
+      path: "_layouts" # an empty string here means all files in the project
+    values:
+      layout: "default"
