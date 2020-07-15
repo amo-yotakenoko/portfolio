@@ -17,8 +17,8 @@ layout: home
  -->
 
 
-<a href="amo-yo.html"><img src="images/thumbnail/amo-yo.png">
-<a href="pomo-yo.html"><img src="images/thumbnail/pomo-yo.png">
+<a href="amo-yo.html"><img src="images/thumbnail/amo-yo.jpeg">
+<a href="pomo-yo.html"><img src="images/thumbnail/pomo-yo.jpeg">
 
 
 
