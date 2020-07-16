@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<body background="images/takenoko.gif">
+<!-- <body background="images/takenoko.gif"> -->
 <link rel="stylesheet" type="text/css" href="my_css.css">
 <p class ="heading"><img class="takenoko_upper_body" src="images/takenoko.png" height="100">       <span style="font-size : 180%">takenoko<span>　<p>
 <p src="images/takenoko.png" height="100">
